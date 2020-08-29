@@ -13,6 +13,10 @@ this is a mistaken
 
 ***hello zeeshan hanif***
 
+- [x] finish changes
+- [ ]  not finished
+
+
 ~~hello world~~
 
 > jamal majeed
@@ -29,3 +33,16 @@ git commit
 
 this site was built by using[github pages] (https://www.google.com)
 
+- holy prophet(s.a.w)
+
+- hazrat ali
+
+1. first caliph
+
+2. second caliph
+
+1. list
+
+   - second list
+
+   - third list
